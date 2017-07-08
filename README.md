@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gernest/dday.svg?branch=master)](https://travis-ci.org/gernest/dday)
+
 # dday
 
 Hassle free standard time formating utilities
