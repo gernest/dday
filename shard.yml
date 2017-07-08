@@ -1,0 +1,9 @@
+name: dday
+version: 0.1.0
+
+authors:
+  - gernest <geofreyernest@live.com>
+
+crystal: 0.23.0
+
+license: MIT
